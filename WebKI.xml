@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="API_BASE_URL field" Url="html/F-CoinCapApi.Constants.API_BASE_URL.htm" />
+  <HelpKINode Title="API_LOGO_128X128_PNG field" Url="html/F-CoinCapApi.Constants.API_LOGO_128X128_PNG.htm" />
+  <HelpKINode Title="API_MIN_CACHE_TIME_MS field" Url="html/F-CoinCapApi.Constants.API_MIN_CACHE_TIME_MS.htm" />
+  <HelpKINode Title="API_NAME field" Url="html/F-CoinCapApi.Constants.API_NAME.htm" />
+  <HelpKINode Title="API_VERSION field" Url="html/F-CoinCapApi.Constants.API_VERSION.htm" />
+  <HelpKINode Title="AssetData class" Url="html/AllMembers.T-CoinCapApi.Models.AssetData.htm" />
+  <HelpKINode Title="AssetData class" Url="html/T-CoinCapApi.Models.AssetData.htm" />
+  <HelpKINode Title="AssetData class">
+    <HelpKINode Title="about AssetData class" Url="html/T-CoinCapApi.Models.AssetData.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.AssetData.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.AssetData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssetData.ChangePercent24Hr property" Url="html/P-CoinCapApi.Models.AssetData.ChangePercent24Hr.htm" />
+  <HelpKINode Title="AssetData.Explorer property" Url="html/P-CoinCapApi.Models.AssetData.Explorer.htm" />
+  <HelpKINode Title="AssetData.Id property" Url="html/P-CoinCapApi.Models.AssetData.Id.htm" />
+  <HelpKINode Title="AssetData.MarketCapUsd property" Url="html/P-CoinCapApi.Models.AssetData.MarketCapUsd.htm" />
+  <HelpKINode Title="AssetData.MaxSupply property" Url="html/P-CoinCapApi.Models.AssetData.MaxSupply.htm" />
+  <HelpKINode Title="AssetData.Name property" Url="html/P-CoinCapApi.Models.AssetData.Name.htm" />
+  <HelpKINode Title="AssetData.PriceUsd property" Url="html/P-CoinCapApi.Models.AssetData.PriceUsd.htm" />
+  <HelpKINode Title="AssetData.Rank property" Url="html/P-CoinCapApi.Models.AssetData.Rank.htm" />
+  <HelpKINode Title="AssetData.Supply property" Url="html/P-CoinCapApi.Models.AssetData.Supply.htm" />
+  <HelpKINode Title="AssetData.Symbol property" Url="html/P-CoinCapApi.Models.AssetData.Symbol.htm" />
+  <HelpKINode Title="AssetData.VolumeUsd24Hr property" Url="html/P-CoinCapApi.Models.AssetData.VolumeUsd24Hr.htm" />
+  <HelpKINode Title="AssetData.Vwap24Hr property" Url="html/P-CoinCapApi.Models.AssetData.Vwap24Hr.htm" />
+  <HelpKINode Title="AssetHistoryData class" Url="html/AllMembers.T-CoinCapApi.Models.AssetHistoryData.htm" />
+  <HelpKINode Title="AssetHistoryData class" Url="html/T-CoinCapApi.Models.AssetHistoryData.htm" />
+  <HelpKINode Title="AssetHistoryData class">
+    <HelpKINode Title="about AssetHistoryData class" Url="html/T-CoinCapApi.Models.AssetHistoryData.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.AssetHistoryData.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.AssetHistoryData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssetHistoryData.CirculatingSupply property" Url="html/P-CoinCapApi.Models.AssetHistoryData.CirculatingSupply.htm" />
+  <HelpKINode Title="AssetHistoryData.Date property" Url="html/P-CoinCapApi.Models.AssetHistoryData.Date.htm" />
+  <HelpKINode Title="AssetHistoryData.PriceUsd property" Url="html/P-CoinCapApi.Models.AssetHistoryData.PriceUsd.htm" />
+  <HelpKINode Title="AssetHistoryData.Time property" Url="html/P-CoinCapApi.Models.AssetHistoryData.Time.htm" />
+  <HelpKINode Title="AssetHistoryResponse class" Url="html/AllMembers.T-CoinCapApi.Models.AssetHistoryResponse.htm" />
+  <HelpKINode Title="AssetHistoryResponse class" Url="html/T-CoinCapApi.Models.AssetHistoryResponse.htm" />
+  <HelpKINode Title="AssetHistoryResponse class">
+    <HelpKINode Title="about AssetHistoryResponse class" Url="html/T-CoinCapApi.Models.AssetHistoryResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.AssetHistoryResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.AssetHistoryResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssetHistoryResponse.Data property" Url="html/P-CoinCapApi.Models.AssetHistoryResponse.Data.htm" />
+  <HelpKINode Title="AssetHistoryResponse.Timestamp property" Url="html/P-CoinCapApi.Models.AssetHistoryResponse.Timestamp.htm" />
+  <HelpKINode Title="AssetMarketData class" Url="html/AllMembers.T-CoinCapApi.Models.AssetMarketData.htm" />
+  <HelpKINode Title="AssetMarketData class" Url="html/T-CoinCapApi.Models.AssetMarketData.htm" />
+  <HelpKINode Title="AssetMarketData class">
+    <HelpKINode Title="about AssetMarketData class" Url="html/T-CoinCapApi.Models.AssetMarketData.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.AssetMarketData.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.AssetMarketData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssetMarketData.BaseId property" Url="html/P-CoinCapApi.Models.AssetMarketData.BaseId.htm" />
+  <HelpKINode Title="AssetMarketData.BaseSymbol property" Url="html/P-CoinCapApi.Models.AssetMarketData.BaseSymbol.htm" />
+  <HelpKINode Title="AssetMarketData.ExchangeId property" Url="html/P-CoinCapApi.Models.AssetMarketData.ExchangeId.htm" />
+  <HelpKINode Title="AssetMarketData.PriceUsd property" Url="html/P-CoinCapApi.Models.AssetMarketData.PriceUsd.htm" />
+  <HelpKINode Title="AssetMarketData.QuoteId property" Url="html/P-CoinCapApi.Models.AssetMarketData.QuoteId.htm" />
+  <HelpKINode Title="AssetMarketData.QuoteSymbol property" Url="html/P-CoinCapApi.Models.AssetMarketData.QuoteSymbol.htm" />
+  <HelpKINode Title="AssetMarketData.VolumePercent property" Url="html/P-CoinCapApi.Models.AssetMarketData.VolumePercent.htm" />
+  <HelpKINode Title="AssetMarketData.VolumeUsd24Hr property" Url="html/P-CoinCapApi.Models.AssetMarketData.VolumeUsd24Hr.htm" />
+  <HelpKINode Title="AssetMarketsResponse class" Url="html/AllMembers.T-CoinCapApi.Models.AssetMarketsResponse.htm" />
+  <HelpKINode Title="AssetMarketsResponse class" Url="html/T-CoinCapApi.Models.AssetMarketsResponse.htm" />
+  <HelpKINode Title="AssetMarketsResponse class">
+    <HelpKINode Title="about AssetMarketsResponse class" Url="html/T-CoinCapApi.Models.AssetMarketsResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.AssetMarketsResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.AssetMarketsResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssetMarketsResponse.Data property" Url="html/P-CoinCapApi.Models.AssetMarketsResponse.Data.htm" />
+  <HelpKINode Title="AssetMarketsResponse.Timestamp property" Url="html/P-CoinCapApi.Models.AssetMarketsResponse.Timestamp.htm" />
+  <HelpKINode Title="AssetResponse class" Url="html/AllMembers.T-CoinCapApi.Models.AssetResponse.htm" />
+  <HelpKINode Title="AssetResponse class" Url="html/T-CoinCapApi.Models.AssetResponse.htm" />
+  <HelpKINode Title="AssetResponse class">
+    <HelpKINode Title="about AssetResponse class" Url="html/T-CoinCapApi.Models.AssetResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.AssetResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.AssetResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssetResponse.Data property" Url="html/P-CoinCapApi.Models.AssetResponse.Data.htm" />
+  <HelpKINode Title="AssetResponse.Timestamp property" Url="html/P-CoinCapApi.Models.AssetResponse.Timestamp.htm" />
+  <HelpKINode Title="Assets property" Url="html/P-CoinCapApi.CoinCapClient.Assets.htm" />
+  <HelpKINode Title="AssetsImp class" Url="html/AllMembers.T-CoinCapApi.Imp.AssetsImp.htm" />
+  <HelpKINode Title="AssetsImp class" Url="html/T-CoinCapApi.Imp.AssetsImp.htm" />
+  <HelpKINode Title="AssetsImp class">
+    <HelpKINode Title="about AssetsImp class" Url="html/T-CoinCapApi.Imp.AssetsImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Imp.AssetsImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinCapApi.Imp.AssetsImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssetsImp.GetAssetAsync method" Url="html/M-CoinCapApi.Imp.AssetsImp.GetAssetAsync.htm" />
+  <HelpKINode Title="AssetsImp.GetAssetHistoryAsync method" Url="html/M-CoinCapApi.Imp.AssetsImp.GetAssetHistoryAsync.htm" />
+  <HelpKINode Title="AssetsImp.GetAssetMarketsAsync method" Url="html/M-CoinCapApi.Imp.AssetsImp.GetAssetMarketsAsync.htm" />
+  <HelpKINode Title="AssetsImp.GetAssetsAsync method" Url="html/M-CoinCapApi.Imp.AssetsImp.GetAssetsAsync.htm" />
+  <HelpKINode Title="AssetsResponse class" Url="html/AllMembers.T-CoinCapApi.Models.AssetsResponse.htm" />
+  <HelpKINode Title="AssetsResponse class" Url="html/T-CoinCapApi.Models.AssetsResponse.htm" />
+  <HelpKINode Title="AssetsResponse class">
+    <HelpKINode Title="about AssetsResponse class" Url="html/T-CoinCapApi.Models.AssetsResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.AssetsResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.AssetsResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssetsResponse.Data property" Url="html/P-CoinCapApi.Models.AssetsResponse.Data.htm" />
+  <HelpKINode Title="AssetsResponse.Timestamp property" Url="html/P-CoinCapApi.Models.AssetsResponse.Timestamp.htm" />
+  <HelpKINode Title="BaseId property" Url="html/P-CoinCapApi.Models.AssetMarketData.BaseId.htm" />
+  <HelpKINode Title="BaseId property" Url="html/P-CoinCapApi.Models.MarketData.BaseId.htm" />
+  <HelpKINode Title="BaseSymbol property" Url="html/P-CoinCapApi.Models.AssetMarketData.BaseSymbol.htm" />
+  <HelpKINode Title="BaseSymbol property" Url="html/P-CoinCapApi.Models.MarketData.BaseSymbol.htm" />
+  <HelpKINode Title="CandleData class" Url="html/AllMembers.T-CoinCapApi.Models.CandleData.htm" />
+  <HelpKINode Title="CandleData class" Url="html/T-CoinCapApi.Models.CandleData.htm" />
+  <HelpKINode Title="CandleData class">
+    <HelpKINode Title="about CandleData class" Url="html/T-CoinCapApi.Models.CandleData.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.CandleData.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.CandleData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CandleData.Close property" Url="html/P-CoinCapApi.Models.CandleData.Close.htm" />
+  <HelpKINode Title="CandleData.High property" Url="html/P-CoinCapApi.Models.CandleData.High.htm" />
+  <HelpKINode Title="CandleData.Low property" Url="html/P-CoinCapApi.Models.CandleData.Low.htm" />
+  <HelpKINode Title="CandleData.Open property" Url="html/P-CoinCapApi.Models.CandleData.Open.htm" />
+  <HelpKINode Title="CandleData.Period property" Url="html/P-CoinCapApi.Models.CandleData.Period.htm" />
+  <HelpKINode Title="CandleData.Volume property" Url="html/P-CoinCapApi.Models.CandleData.Volume.htm" />
+  <HelpKINode Title="Candles property" Url="html/P-CoinCapApi.CoinCapClient.Candles.htm" />
+  <HelpKINode Title="CandlesImp class" Url="html/AllMembers.T-CoinCapApi.Imp.CandlesImp.htm" />
+  <HelpKINode Title="CandlesImp class" Url="html/T-CoinCapApi.Imp.CandlesImp.htm" />
+  <HelpKINode Title="CandlesImp class">
+    <HelpKINode Title="about CandlesImp class" Url="html/T-CoinCapApi.Imp.CandlesImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Imp.CandlesImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinCapApi.Imp.CandlesImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CandlesImp.GetCandlesAsync method" Url="html/M-CoinCapApi.Imp.CandlesImp.GetCandlesAsync.htm" />
+  <HelpKINode Title="CandlesResponse class" Url="html/AllMembers.T-CoinCapApi.Models.CandlesResponse.htm" />
+  <HelpKINode Title="CandlesResponse class" Url="html/T-CoinCapApi.Models.CandlesResponse.htm" />
+  <HelpKINode Title="CandlesResponse class">
+    <HelpKINode Title="about CandlesResponse class" Url="html/T-CoinCapApi.Models.CandlesResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.CandlesResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.CandlesResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CandlesResponse.Data property" Url="html/P-CoinCapApi.Models.CandlesResponse.Data.htm" />
+  <HelpKINode Title="CandlesResponse.Timestamp property" Url="html/P-CoinCapApi.Models.CandlesResponse.Timestamp.htm" />
+  <HelpKINode Title="CCRestClient property" Url="html/P-CoinCapApi.CoinCapClient.CCRestClient.htm" />
+  <HelpKINode Title="ChangePercent24Hr property" Url="html/P-CoinCapApi.Models.AssetData.ChangePercent24Hr.htm" />
+  <HelpKINode Title="CirculatingSupply property" Url="html/P-CoinCapApi.Models.AssetHistoryData.CirculatingSupply.htm" />
+  <HelpKINode Title="ClearCache method" Url="html/M-CoinCapApi.CoinCapClient.ClearCache.htm" />
+  <HelpKINode Title="Close property" Url="html/P-CoinCapApi.Models.CandleData.Close.htm" />
+  <HelpKINode Title="CoinCapApi namespace" Url="html/N-CoinCapApi.htm" />
+  <HelpKINode Title="CoinCapApi.CoinCapClient class" Url="html/AllMembers.T-CoinCapApi.CoinCapClient.htm" />
+  <HelpKINode Title="CoinCapApi.CoinCapClient class" Url="html/T-CoinCapApi.CoinCapClient.htm" />
+  <HelpKINode Title="CoinCapApi.Constants class" Url="html/AllMembers.T-CoinCapApi.Constants.htm" />
+  <HelpKINode Title="CoinCapApi.Constants class" Url="html/T-CoinCapApi.Constants.htm" />
+  <HelpKINode Title="CoinCapApi.Exceptions namespace" Url="html/N-CoinCapApi.Exceptions.htm" />
+  <HelpKINode Title="CoinCapApi.Exceptions.UnknownException class" Url="html/AllMembers.T-CoinCapApi.Exceptions.UnknownException.htm" />
+  <HelpKINode Title="CoinCapApi.Exceptions.UnknownException class" Url="html/T-CoinCapApi.Exceptions.UnknownException.htm" />
+  <HelpKINode Title="CoinCapApi.Imp namespace" Url="html/N-CoinCapApi.Imp.htm" />
+  <HelpKINode Title="CoinCapApi.Imp.AssetsImp class" Url="html/AllMembers.T-CoinCapApi.Imp.AssetsImp.htm" />
+  <HelpKINode Title="CoinCapApi.Imp.AssetsImp class" Url="html/T-CoinCapApi.Imp.AssetsImp.htm" />
+  <HelpKINode Title="CoinCapApi.Imp.CandlesImp class" Url="html/AllMembers.T-CoinCapApi.Imp.CandlesImp.htm" />
+  <HelpKINode Title="CoinCapApi.Imp.CandlesImp class" Url="html/T-CoinCapApi.Imp.CandlesImp.htm" />
+  <HelpKINode Title="CoinCapApi.Imp.ExchangesImp class" Url="html/AllMembers.T-CoinCapApi.Imp.ExchangesImp.htm" />
+  <HelpKINode Title="CoinCapApi.Imp.ExchangesImp class" Url="html/T-CoinCapApi.Imp.ExchangesImp.htm" />
+  <HelpKINode Title="CoinCapApi.Imp.MarketsImp class" Url="html/AllMembers.T-CoinCapApi.Imp.MarketsImp.htm" />
+  <HelpKINode Title="CoinCapApi.Imp.MarketsImp class" Url="html/T-CoinCapApi.Imp.MarketsImp.htm" />
+  <HelpKINode Title="CoinCapApi.Imp.RatesImp class" Url="html/AllMembers.T-CoinCapApi.Imp.RatesImp.htm" />
+  <HelpKINode Title="CoinCapApi.Imp.RatesImp class" Url="html/T-CoinCapApi.Imp.RatesImp.htm" />
+  <HelpKINode Title="CoinCapApi.Models namespace" Url="html/N-CoinCapApi.Models.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetData class" Url="html/AllMembers.T-CoinCapApi.Models.AssetData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetData class" Url="html/T-CoinCapApi.Models.AssetData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetHistoryData class" Url="html/AllMembers.T-CoinCapApi.Models.AssetHistoryData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetHistoryData class" Url="html/T-CoinCapApi.Models.AssetHistoryData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetHistoryResponse class" Url="html/AllMembers.T-CoinCapApi.Models.AssetHistoryResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetHistoryResponse class" Url="html/T-CoinCapApi.Models.AssetHistoryResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetMarketData class" Url="html/AllMembers.T-CoinCapApi.Models.AssetMarketData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetMarketData class" Url="html/T-CoinCapApi.Models.AssetMarketData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetMarketsResponse class" Url="html/AllMembers.T-CoinCapApi.Models.AssetMarketsResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetMarketsResponse class" Url="html/T-CoinCapApi.Models.AssetMarketsResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetResponse class" Url="html/AllMembers.T-CoinCapApi.Models.AssetResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetResponse class" Url="html/T-CoinCapApi.Models.AssetResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetsResponse class" Url="html/AllMembers.T-CoinCapApi.Models.AssetsResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.AssetsResponse class" Url="html/T-CoinCapApi.Models.AssetsResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.CandleData class" Url="html/AllMembers.T-CoinCapApi.Models.CandleData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.CandleData class" Url="html/T-CoinCapApi.Models.CandleData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.CandlesResponse class" Url="html/AllMembers.T-CoinCapApi.Models.CandlesResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.CandlesResponse class" Url="html/T-CoinCapApi.Models.CandlesResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.ExchangeData class" Url="html/AllMembers.T-CoinCapApi.Models.ExchangeData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.ExchangeData class" Url="html/T-CoinCapApi.Models.ExchangeData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.ExchangeResponse class" Url="html/AllMembers.T-CoinCapApi.Models.ExchangeResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.ExchangeResponse class" Url="html/T-CoinCapApi.Models.ExchangeResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.ExchangesResponse class" Url="html/AllMembers.T-CoinCapApi.Models.ExchangesResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.ExchangesResponse class" Url="html/T-CoinCapApi.Models.ExchangesResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.MarketData class" Url="html/AllMembers.T-CoinCapApi.Models.MarketData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.MarketData class" Url="html/T-CoinCapApi.Models.MarketData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.MarketsResponse class" Url="html/AllMembers.T-CoinCapApi.Models.MarketsResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.MarketsResponse class" Url="html/T-CoinCapApi.Models.MarketsResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.RateData class" Url="html/AllMembers.T-CoinCapApi.Models.RateData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.RateData class" Url="html/T-CoinCapApi.Models.RateData.htm" />
+  <HelpKINode Title="CoinCapApi.Models.RateResponse class" Url="html/AllMembers.T-CoinCapApi.Models.RateResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.RateResponse class" Url="html/T-CoinCapApi.Models.RateResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.RatesResponse class" Url="html/AllMembers.T-CoinCapApi.Models.RatesResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Models.RatesResponse class" Url="html/T-CoinCapApi.Models.RatesResponse.htm" />
+  <HelpKINode Title="CoinCapApi.Types namespace" Url="html/N-CoinCapApi.Types.htm" />
+  <HelpKINode Title="CoinCapApi.Types.TimeInterval enumeration" Url="html/T-CoinCapApi.Types.TimeInterval.htm" />
+  <HelpKINode Title="CoinCapClient class" Url="html/AllMembers.T-CoinCapApi.CoinCapClient.htm" />
+  <HelpKINode Title="CoinCapClient class" Url="html/T-CoinCapApi.CoinCapClient.htm" />
+  <HelpKINode Title="CoinCapClient class">
+    <HelpKINode Title="about CoinCapClient class" Url="html/T-CoinCapApi.CoinCapClient.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.CoinCapClient.htm" />
+    <HelpKINode Title="constructor" Url="html/M-CoinCapApi.CoinCapClient.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinCapApi.CoinCapClient.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.CoinCapClient.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinCapClient.Assets property" Url="html/P-CoinCapApi.CoinCapClient.Assets.htm" />
+  <HelpKINode Title="CoinCapClient.Candles property" Url="html/P-CoinCapApi.CoinCapClient.Candles.htm" />
+  <HelpKINode Title="CoinCapClient.CCRestClient property" Url="html/P-CoinCapApi.CoinCapClient.CCRestClient.htm" />
+  <HelpKINode Title="CoinCapClient.ClearCache method" Url="html/M-CoinCapApi.CoinCapClient.ClearCache.htm" />
+  <HelpKINode Title="CoinCapClient.CoinCapClient constructor" Url="html/M-CoinCapApi.CoinCapClient.-ctor.htm" />
+  <HelpKINode Title="CoinCapClient.Exchanges property" Url="html/P-CoinCapApi.CoinCapClient.Exchanges.htm" />
+  <HelpKINode Title="CoinCapClient.IsCacheEnabled property" Url="html/P-CoinCapApi.CoinCapClient.IsCacheEnabled.htm" />
+  <HelpKINode Title="CoinCapClient.Markets property" Url="html/P-CoinCapApi.CoinCapClient.Markets.htm" />
+  <HelpKINode Title="CoinCapClient.Rates property" Url="html/P-CoinCapApi.CoinCapClient.Rates.htm" />
+  <HelpKINode Title="Constants class" Url="html/AllMembers.T-CoinCapApi.Constants.htm" />
+  <HelpKINode Title="Constants class" Url="html/T-CoinCapApi.Constants.htm" />
+  <HelpKINode Title="Constants class">
+    <HelpKINode Title="about Constants class" Url="html/T-CoinCapApi.Constants.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Constants.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-CoinCapApi.Constants.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Constants.API_BASE_URL field" Url="html/F-CoinCapApi.Constants.API_BASE_URL.htm" />
+  <HelpKINode Title="Constants.API_LOGO_128X128_PNG field" Url="html/F-CoinCapApi.Constants.API_LOGO_128X128_PNG.htm" />
+  <HelpKINode Title="Constants.API_MIN_CACHE_TIME_MS field" Url="html/F-CoinCapApi.Constants.API_MIN_CACHE_TIME_MS.htm" />
+  <HelpKINode Title="Constants.API_NAME field" Url="html/F-CoinCapApi.Constants.API_NAME.htm" />
+  <HelpKINode Title="Constants.API_VERSION field" Url="html/F-CoinCapApi.Constants.API_VERSION.htm" />
+  <HelpKINode Title="CurrencySymbol property" Url="html/P-CoinCapApi.Models.RateData.CurrencySymbol.htm" />
+  <HelpKINode Title="D1 enumeration member" Url="html/T-CoinCapApi.Types.TimeInterval.htm" />
+  <HelpKINode Title="D1 field" Url="html/F-CoinCapApi.Types.TimeInterval.D1.htm" />
+  <HelpKINode Title="Data property" Url="html/P-CoinCapApi.Models.AssetHistoryResponse.Data.htm" />
+  <HelpKINode Title="Data property" Url="html/P-CoinCapApi.Models.AssetMarketsResponse.Data.htm" />
+  <HelpKINode Title="Data property" Url="html/P-CoinCapApi.Models.AssetResponse.Data.htm" />
+  <HelpKINode Title="Data property" Url="html/P-CoinCapApi.Models.AssetsResponse.Data.htm" />
+  <HelpKINode Title="Data property" Url="html/P-CoinCapApi.Models.CandlesResponse.Data.htm" />
+  <HelpKINode Title="Data property" Url="html/P-CoinCapApi.Models.ExchangeResponse.Data.htm" />
+  <HelpKINode Title="Data property" Url="html/P-CoinCapApi.Models.ExchangesResponse.Data.htm" />
+  <HelpKINode Title="Data property" Url="html/P-CoinCapApi.Models.MarketsResponse.Data.htm" />
+  <HelpKINode Title="Data property" Url="html/P-CoinCapApi.Models.RateResponse.Data.htm" />
+  <HelpKINode Title="Data property" Url="html/P-CoinCapApi.Models.RatesResponse.Data.htm" />
+  <HelpKINode Title="Date property" Url="html/P-CoinCapApi.Models.AssetHistoryData.Date.htm" />
+  <HelpKINode Title="ExchangeData class" Url="html/AllMembers.T-CoinCapApi.Models.ExchangeData.htm" />
+  <HelpKINode Title="ExchangeData class" Url="html/T-CoinCapApi.Models.ExchangeData.htm" />
+  <HelpKINode Title="ExchangeData class">
+    <HelpKINode Title="about ExchangeData class" Url="html/T-CoinCapApi.Models.ExchangeData.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.ExchangeData.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.ExchangeData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExchangeData.ExchangeId property" Url="html/P-CoinCapApi.Models.ExchangeData.ExchangeId.htm" />
+  <HelpKINode Title="ExchangeData.ExchangeUrl property" Url="html/P-CoinCapApi.Models.ExchangeData.ExchangeUrl.htm" />
+  <HelpKINode Title="ExchangeData.Name property" Url="html/P-CoinCapApi.Models.ExchangeData.Name.htm" />
+  <HelpKINode Title="ExchangeData.PercentTotalVolume property" Url="html/P-CoinCapApi.Models.ExchangeData.PercentTotalVolume.htm" />
+  <HelpKINode Title="ExchangeData.Rank property" Url="html/P-CoinCapApi.Models.ExchangeData.Rank.htm" />
+  <HelpKINode Title="ExchangeData.Socket property" Url="html/P-CoinCapApi.Models.ExchangeData.Socket.htm" />
+  <HelpKINode Title="ExchangeData.TradingPairs property" Url="html/P-CoinCapApi.Models.ExchangeData.TradingPairs.htm" />
+  <HelpKINode Title="ExchangeData.Updated property" Url="html/P-CoinCapApi.Models.ExchangeData.Updated.htm" />
+  <HelpKINode Title="ExchangeData.VolumeUsd property" Url="html/P-CoinCapApi.Models.ExchangeData.VolumeUsd.htm" />
+  <HelpKINode Title="ExchangeId property" Url="html/P-CoinCapApi.Models.AssetMarketData.ExchangeId.htm" />
+  <HelpKINode Title="ExchangeId property" Url="html/P-CoinCapApi.Models.ExchangeData.ExchangeId.htm" />
+  <HelpKINode Title="ExchangeId property" Url="html/P-CoinCapApi.Models.MarketData.ExchangeId.htm" />
+  <HelpKINode Title="ExchangeResponse class" Url="html/AllMembers.T-CoinCapApi.Models.ExchangeResponse.htm" />
+  <HelpKINode Title="ExchangeResponse class" Url="html/T-CoinCapApi.Models.ExchangeResponse.htm" />
+  <HelpKINode Title="ExchangeResponse class">
+    <HelpKINode Title="about ExchangeResponse class" Url="html/T-CoinCapApi.Models.ExchangeResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.ExchangeResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.ExchangeResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExchangeResponse.Data property" Url="html/P-CoinCapApi.Models.ExchangeResponse.Data.htm" />
+  <HelpKINode Title="ExchangeResponse.Timestamp property" Url="html/P-CoinCapApi.Models.ExchangeResponse.Timestamp.htm" />
+  <HelpKINode Title="Exchanges property" Url="html/P-CoinCapApi.CoinCapClient.Exchanges.htm" />
+  <HelpKINode Title="ExchangesImp class" Url="html/AllMembers.T-CoinCapApi.Imp.ExchangesImp.htm" />
+  <HelpKINode Title="ExchangesImp class" Url="html/T-CoinCapApi.Imp.ExchangesImp.htm" />
+  <HelpKINode Title="ExchangesImp class">
+    <HelpKINode Title="about ExchangesImp class" Url="html/T-CoinCapApi.Imp.ExchangesImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Imp.ExchangesImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinCapApi.Imp.ExchangesImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExchangesImp.GetExchangeAsync method" Url="html/M-CoinCapApi.Imp.ExchangesImp.GetExchangeAsync.htm" />
+  <HelpKINode Title="ExchangesImp.GetExchangesAsync method" Url="html/M-CoinCapApi.Imp.ExchangesImp.GetExchangesAsync.htm" />
+  <HelpKINode Title="ExchangesResponse class" Url="html/AllMembers.T-CoinCapApi.Models.ExchangesResponse.htm" />
+  <HelpKINode Title="ExchangesResponse class" Url="html/T-CoinCapApi.Models.ExchangesResponse.htm" />
+  <HelpKINode Title="ExchangesResponse class">
+    <HelpKINode Title="about ExchangesResponse class" Url="html/T-CoinCapApi.Models.ExchangesResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.ExchangesResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.ExchangesResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExchangesResponse.Data property" Url="html/P-CoinCapApi.Models.ExchangesResponse.Data.htm" />
+  <HelpKINode Title="ExchangesResponse.Timestamp property" Url="html/P-CoinCapApi.Models.ExchangesResponse.Timestamp.htm" />
+  <HelpKINode Title="ExchangeUrl property" Url="html/P-CoinCapApi.Models.ExchangeData.ExchangeUrl.htm" />
+  <HelpKINode Title="Explorer property" Url="html/P-CoinCapApi.Models.AssetData.Explorer.htm" />
+  <HelpKINode Title="GetAssetAsync method" Url="html/M-CoinCapApi.Imp.AssetsImp.GetAssetAsync.htm" />
+  <HelpKINode Title="GetAssetHistoryAsync method" Url="html/M-CoinCapApi.Imp.AssetsImp.GetAssetHistoryAsync.htm" />
+  <HelpKINode Title="GetAssetMarketsAsync method" Url="html/M-CoinCapApi.Imp.AssetsImp.GetAssetMarketsAsync.htm" />
+  <HelpKINode Title="GetAssetsAsync method" Url="html/M-CoinCapApi.Imp.AssetsImp.GetAssetsAsync.htm" />
+  <HelpKINode Title="GetCandlesAsync method" Url="html/M-CoinCapApi.Imp.CandlesImp.GetCandlesAsync.htm" />
+  <HelpKINode Title="GetExchangeAsync method" Url="html/M-CoinCapApi.Imp.ExchangesImp.GetExchangeAsync.htm" />
+  <HelpKINode Title="GetExchangesAsync method" Url="html/M-CoinCapApi.Imp.ExchangesImp.GetExchangesAsync.htm" />
+  <HelpKINode Title="GetMarketsAsync method" Url="html/M-CoinCapApi.Imp.MarketsImp.GetMarketsAsync.htm" />
+  <HelpKINode Title="GetRateAsync method" Url="html/M-CoinCapApi.Imp.RatesImp.GetRateAsync.htm" />
+  <HelpKINode Title="GetRatesAsync method" Url="html/M-CoinCapApi.Imp.RatesImp.GetRatesAsync.htm" />
+  <HelpKINode Title="H1 enumeration member" Url="html/T-CoinCapApi.Types.TimeInterval.htm" />
+  <HelpKINode Title="H1 field" Url="html/F-CoinCapApi.Types.TimeInterval.H1.htm" />
+  <HelpKINode Title="H12 enumeration member" Url="html/T-CoinCapApi.Types.TimeInterval.htm" />
+  <HelpKINode Title="H12 field" Url="html/F-CoinCapApi.Types.TimeInterval.H12.htm" />
+  <HelpKINode Title="H2 enumeration member" Url="html/T-CoinCapApi.Types.TimeInterval.htm" />
+  <HelpKINode Title="H2 field" Url="html/F-CoinCapApi.Types.TimeInterval.H2.htm" />
+  <HelpKINode Title="H6 enumeration member" Url="html/T-CoinCapApi.Types.TimeInterval.htm" />
+  <HelpKINode Title="H6 field" Url="html/F-CoinCapApi.Types.TimeInterval.H6.htm" />
+  <HelpKINode Title="High property" Url="html/P-CoinCapApi.Models.CandleData.High.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinCapApi.Models.AssetData.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinCapApi.Models.RateData.Id.htm" />
+  <HelpKINode Title="IsCacheEnabled property" Url="html/P-CoinCapApi.CoinCapClient.IsCacheEnabled.htm" />
+  <HelpKINode Title="Low property" Url="html/P-CoinCapApi.Models.CandleData.Low.htm" />
+  <HelpKINode Title="M1 enumeration member" Url="html/T-CoinCapApi.Types.TimeInterval.htm" />
+  <HelpKINode Title="M1 field" Url="html/F-CoinCapApi.Types.TimeInterval.M1.htm" />
+  <HelpKINode Title="M15 enumeration member" Url="html/T-CoinCapApi.Types.TimeInterval.htm" />
+  <HelpKINode Title="M15 field" Url="html/F-CoinCapApi.Types.TimeInterval.M15.htm" />
+  <HelpKINode Title="M30 enumeration member" Url="html/T-CoinCapApi.Types.TimeInterval.htm" />
+  <HelpKINode Title="M30 field" Url="html/F-CoinCapApi.Types.TimeInterval.M30.htm" />
+  <HelpKINode Title="M5 enumeration member" Url="html/T-CoinCapApi.Types.TimeInterval.htm" />
+  <HelpKINode Title="M5 field" Url="html/F-CoinCapApi.Types.TimeInterval.M5.htm" />
+  <HelpKINode Title="MarketCapUsd property" Url="html/P-CoinCapApi.Models.AssetData.MarketCapUsd.htm" />
+  <HelpKINode Title="MarketData class" Url="html/AllMembers.T-CoinCapApi.Models.MarketData.htm" />
+  <HelpKINode Title="MarketData class" Url="html/T-CoinCapApi.Models.MarketData.htm" />
+  <HelpKINode Title="MarketData class">
+    <HelpKINode Title="about MarketData class" Url="html/T-CoinCapApi.Models.MarketData.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.MarketData.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.MarketData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MarketData.BaseId property" Url="html/P-CoinCapApi.Models.MarketData.BaseId.htm" />
+  <HelpKINode Title="MarketData.BaseSymbol property" Url="html/P-CoinCapApi.Models.MarketData.BaseSymbol.htm" />
+  <HelpKINode Title="MarketData.ExchangeId property" Url="html/P-CoinCapApi.Models.MarketData.ExchangeId.htm" />
+  <HelpKINode Title="MarketData.PercentExchangeVolume property" Url="html/P-CoinCapApi.Models.MarketData.PercentExchangeVolume.htm" />
+  <HelpKINode Title="MarketData.PriceQuote property" Url="html/P-CoinCapApi.Models.MarketData.PriceQuote.htm" />
+  <HelpKINode Title="MarketData.PriceUsd property" Url="html/P-CoinCapApi.Models.MarketData.PriceUsd.htm" />
+  <HelpKINode Title="MarketData.QuoteId property" Url="html/P-CoinCapApi.Models.MarketData.QuoteId.htm" />
+  <HelpKINode Title="MarketData.QuoteSymbol property" Url="html/P-CoinCapApi.Models.MarketData.QuoteSymbol.htm" />
+  <HelpKINode Title="MarketData.Rank property" Url="html/P-CoinCapApi.Models.MarketData.Rank.htm" />
+  <HelpKINode Title="MarketData.TradesCount24Hr property" Url="html/P-CoinCapApi.Models.MarketData.TradesCount24Hr.htm" />
+  <HelpKINode Title="MarketData.Updated property" Url="html/P-CoinCapApi.Models.MarketData.Updated.htm" />
+  <HelpKINode Title="MarketData.VolumeUsd24Hr property" Url="html/P-CoinCapApi.Models.MarketData.VolumeUsd24Hr.htm" />
+  <HelpKINode Title="Markets property" Url="html/P-CoinCapApi.CoinCapClient.Markets.htm" />
+  <HelpKINode Title="MarketsImp class" Url="html/AllMembers.T-CoinCapApi.Imp.MarketsImp.htm" />
+  <HelpKINode Title="MarketsImp class" Url="html/T-CoinCapApi.Imp.MarketsImp.htm" />
+  <HelpKINode Title="MarketsImp class">
+    <HelpKINode Title="about MarketsImp class" Url="html/T-CoinCapApi.Imp.MarketsImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Imp.MarketsImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinCapApi.Imp.MarketsImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MarketsImp.GetMarketsAsync method" Url="html/M-CoinCapApi.Imp.MarketsImp.GetMarketsAsync.htm" />
+  <HelpKINode Title="MarketsResponse class" Url="html/AllMembers.T-CoinCapApi.Models.MarketsResponse.htm" />
+  <HelpKINode Title="MarketsResponse class" Url="html/T-CoinCapApi.Models.MarketsResponse.htm" />
+  <HelpKINode Title="MarketsResponse class">
+    <HelpKINode Title="about MarketsResponse class" Url="html/T-CoinCapApi.Models.MarketsResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.MarketsResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.MarketsResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MarketsResponse.Data property" Url="html/P-CoinCapApi.Models.MarketsResponse.Data.htm" />
+  <HelpKINode Title="MarketsResponse.Timestamp property" Url="html/P-CoinCapApi.Models.MarketsResponse.Timestamp.htm" />
+  <HelpKINode Title="MaxSupply property" Url="html/P-CoinCapApi.Models.AssetData.MaxSupply.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinCapApi.Models.AssetData.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinCapApi.Models.ExchangeData.Name.htm" />
+  <HelpKINode Title="Open property" Url="html/P-CoinCapApi.Models.CandleData.Open.htm" />
+  <HelpKINode Title="PercentExchangeVolume property" Url="html/P-CoinCapApi.Models.MarketData.PercentExchangeVolume.htm" />
+  <HelpKINode Title="PercentTotalVolume property" Url="html/P-CoinCapApi.Models.ExchangeData.PercentTotalVolume.htm" />
+  <HelpKINode Title="Period property" Url="html/P-CoinCapApi.Models.CandleData.Period.htm" />
+  <HelpKINode Title="PriceQuote property" Url="html/P-CoinCapApi.Models.MarketData.PriceQuote.htm" />
+  <HelpKINode Title="PriceUsd property" Url="html/P-CoinCapApi.Models.AssetData.PriceUsd.htm" />
+  <HelpKINode Title="PriceUsd property" Url="html/P-CoinCapApi.Models.AssetHistoryData.PriceUsd.htm" />
+  <HelpKINode Title="PriceUsd property" Url="html/P-CoinCapApi.Models.AssetMarketData.PriceUsd.htm" />
+  <HelpKINode Title="PriceUsd property" Url="html/P-CoinCapApi.Models.MarketData.PriceUsd.htm" />
+  <HelpKINode Title="QuoteId property" Url="html/P-CoinCapApi.Models.AssetMarketData.QuoteId.htm" />
+  <HelpKINode Title="QuoteId property" Url="html/P-CoinCapApi.Models.MarketData.QuoteId.htm" />
+  <HelpKINode Title="QuoteSymbol property" Url="html/P-CoinCapApi.Models.AssetMarketData.QuoteSymbol.htm" />
+  <HelpKINode Title="QuoteSymbol property" Url="html/P-CoinCapApi.Models.MarketData.QuoteSymbol.htm" />
+  <HelpKINode Title="Rank property" Url="html/P-CoinCapApi.Models.AssetData.Rank.htm" />
+  <HelpKINode Title="Rank property" Url="html/P-CoinCapApi.Models.ExchangeData.Rank.htm" />
+  <HelpKINode Title="Rank property" Url="html/P-CoinCapApi.Models.MarketData.Rank.htm" />
+  <HelpKINode Title="RateData class" Url="html/AllMembers.T-CoinCapApi.Models.RateData.htm" />
+  <HelpKINode Title="RateData class" Url="html/T-CoinCapApi.Models.RateData.htm" />
+  <HelpKINode Title="RateData class">
+    <HelpKINode Title="about RateData class" Url="html/T-CoinCapApi.Models.RateData.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.RateData.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.RateData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RateData.CurrencySymbol property" Url="html/P-CoinCapApi.Models.RateData.CurrencySymbol.htm" />
+  <HelpKINode Title="RateData.Id property" Url="html/P-CoinCapApi.Models.RateData.Id.htm" />
+  <HelpKINode Title="RateData.RateUsd property" Url="html/P-CoinCapApi.Models.RateData.RateUsd.htm" />
+  <HelpKINode Title="RateData.Symbol property" Url="html/P-CoinCapApi.Models.RateData.Symbol.htm" />
+  <HelpKINode Title="RateData.Type property" Url="html/P-CoinCapApi.Models.RateData.Type.htm" />
+  <HelpKINode Title="RateResponse class" Url="html/AllMembers.T-CoinCapApi.Models.RateResponse.htm" />
+  <HelpKINode Title="RateResponse class" Url="html/T-CoinCapApi.Models.RateResponse.htm" />
+  <HelpKINode Title="RateResponse class">
+    <HelpKINode Title="about RateResponse class" Url="html/T-CoinCapApi.Models.RateResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.RateResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.RateResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RateResponse.Data property" Url="html/P-CoinCapApi.Models.RateResponse.Data.htm" />
+  <HelpKINode Title="RateResponse.Timestamp property" Url="html/P-CoinCapApi.Models.RateResponse.Timestamp.htm" />
+  <HelpKINode Title="Rates property" Url="html/P-CoinCapApi.CoinCapClient.Rates.htm" />
+  <HelpKINode Title="RatesImp class" Url="html/AllMembers.T-CoinCapApi.Imp.RatesImp.htm" />
+  <HelpKINode Title="RatesImp class" Url="html/T-CoinCapApi.Imp.RatesImp.htm" />
+  <HelpKINode Title="RatesImp class">
+    <HelpKINode Title="about RatesImp class" Url="html/T-CoinCapApi.Imp.RatesImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Imp.RatesImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinCapApi.Imp.RatesImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RatesImp.GetRateAsync method" Url="html/M-CoinCapApi.Imp.RatesImp.GetRateAsync.htm" />
+  <HelpKINode Title="RatesImp.GetRatesAsync method" Url="html/M-CoinCapApi.Imp.RatesImp.GetRatesAsync.htm" />
+  <HelpKINode Title="RatesResponse class" Url="html/AllMembers.T-CoinCapApi.Models.RatesResponse.htm" />
+  <HelpKINode Title="RatesResponse class" Url="html/T-CoinCapApi.Models.RatesResponse.htm" />
+  <HelpKINode Title="RatesResponse class">
+    <HelpKINode Title="about RatesResponse class" Url="html/T-CoinCapApi.Models.RatesResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Models.RatesResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinCapApi.Models.RatesResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RatesResponse.Data property" Url="html/P-CoinCapApi.Models.RatesResponse.Data.htm" />
+  <HelpKINode Title="RatesResponse.Timestamp property" Url="html/P-CoinCapApi.Models.RatesResponse.Timestamp.htm" />
+  <HelpKINode Title="RateUsd property" Url="html/P-CoinCapApi.Models.RateData.RateUsd.htm" />
+  <HelpKINode Title="Socket property" Url="html/P-CoinCapApi.Models.ExchangeData.Socket.htm" />
+  <HelpKINode Title="Supply property" Url="html/P-CoinCapApi.Models.AssetData.Supply.htm" />
+  <HelpKINode Title="Symbol property" Url="html/P-CoinCapApi.Models.AssetData.Symbol.htm" />
+  <HelpKINode Title="Symbol property" Url="html/P-CoinCapApi.Models.RateData.Symbol.htm" />
+  <HelpKINode Title="Time property" Url="html/P-CoinCapApi.Models.AssetHistoryData.Time.htm" />
+  <HelpKINode Title="TimeInterval enumeration" Url="html/T-CoinCapApi.Types.TimeInterval.htm" />
+  <HelpKINode Title="TimeInterval.D1 field" Url="html/F-CoinCapApi.Types.TimeInterval.D1.htm" />
+  <HelpKINode Title="TimeInterval.H1 field" Url="html/F-CoinCapApi.Types.TimeInterval.H1.htm" />
+  <HelpKINode Title="TimeInterval.H12 field" Url="html/F-CoinCapApi.Types.TimeInterval.H12.htm" />
+  <HelpKINode Title="TimeInterval.H2 field" Url="html/F-CoinCapApi.Types.TimeInterval.H2.htm" />
+  <HelpKINode Title="TimeInterval.H6 field" Url="html/F-CoinCapApi.Types.TimeInterval.H6.htm" />
+  <HelpKINode Title="TimeInterval.M1 field" Url="html/F-CoinCapApi.Types.TimeInterval.M1.htm" />
+  <HelpKINode Title="TimeInterval.M15 field" Url="html/F-CoinCapApi.Types.TimeInterval.M15.htm" />
+  <HelpKINode Title="TimeInterval.M30 field" Url="html/F-CoinCapApi.Types.TimeInterval.M30.htm" />
+  <HelpKINode Title="TimeInterval.M5 field" Url="html/F-CoinCapApi.Types.TimeInterval.M5.htm" />
+  <HelpKINode Title="Timestamp property" Url="html/P-CoinCapApi.Models.AssetHistoryResponse.Timestamp.htm" />
+  <HelpKINode Title="Timestamp property" Url="html/P-CoinCapApi.Models.AssetMarketsResponse.Timestamp.htm" />
+  <HelpKINode Title="Timestamp property" Url="html/P-CoinCapApi.Models.AssetResponse.Timestamp.htm" />
+  <HelpKINode Title="Timestamp property" Url="html/P-CoinCapApi.Models.AssetsResponse.Timestamp.htm" />
+  <HelpKINode Title="Timestamp property" Url="html/P-CoinCapApi.Models.CandlesResponse.Timestamp.htm" />
+  <HelpKINode Title="Timestamp property" Url="html/P-CoinCapApi.Models.ExchangeResponse.Timestamp.htm" />
+  <HelpKINode Title="Timestamp property" Url="html/P-CoinCapApi.Models.ExchangesResponse.Timestamp.htm" />
+  <HelpKINode Title="Timestamp property" Url="html/P-CoinCapApi.Models.MarketsResponse.Timestamp.htm" />
+  <HelpKINode Title="Timestamp property" Url="html/P-CoinCapApi.Models.RateResponse.Timestamp.htm" />
+  <HelpKINode Title="Timestamp property" Url="html/P-CoinCapApi.Models.RatesResponse.Timestamp.htm" />
+  <HelpKINode Title="TradesCount24Hr property" Url="html/P-CoinCapApi.Models.MarketData.TradesCount24Hr.htm" />
+  <HelpKINode Title="TradingPairs property" Url="html/P-CoinCapApi.Models.ExchangeData.TradingPairs.htm" />
+  <HelpKINode Title="Type property" Url="html/P-CoinCapApi.Models.RateData.Type.htm" />
+  <HelpKINode Title="UnknownException class" Url="html/AllMembers.T-CoinCapApi.Exceptions.UnknownException.htm" />
+  <HelpKINode Title="UnknownException class" Url="html/T-CoinCapApi.Exceptions.UnknownException.htm" />
+  <HelpKINode Title="UnknownException class">
+    <HelpKINode Title="about UnknownException class" Url="html/T-CoinCapApi.Exceptions.UnknownException.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinCapApi.Exceptions.UnknownException.htm" />
+    <HelpKINode Title="constructor" Url="html/M-CoinCapApi.Exceptions.UnknownException.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UnknownException.UnknownException constructor" Url="html/M-CoinCapApi.Exceptions.UnknownException.-ctor.htm" />
+  <HelpKINode Title="Updated property" Url="html/P-CoinCapApi.Models.ExchangeData.Updated.htm" />
+  <HelpKINode Title="Updated property" Url="html/P-CoinCapApi.Models.MarketData.Updated.htm" />
+  <HelpKINode Title="Volume property" Url="html/P-CoinCapApi.Models.CandleData.Volume.htm" />
+  <HelpKINode Title="VolumePercent property" Url="html/P-CoinCapApi.Models.AssetMarketData.VolumePercent.htm" />
+  <HelpKINode Title="VolumeUsd property" Url="html/P-CoinCapApi.Models.ExchangeData.VolumeUsd.htm" />
+  <HelpKINode Title="VolumeUsd24Hr property" Url="html/P-CoinCapApi.Models.AssetData.VolumeUsd24Hr.htm" />
+  <HelpKINode Title="VolumeUsd24Hr property" Url="html/P-CoinCapApi.Models.AssetMarketData.VolumeUsd24Hr.htm" />
+  <HelpKINode Title="VolumeUsd24Hr property" Url="html/P-CoinCapApi.Models.MarketData.VolumeUsd24Hr.htm" />
+  <HelpKINode Title="Vwap24Hr property" Url="html/P-CoinCapApi.Models.AssetData.Vwap24Hr.htm" />
+</HelpKI>

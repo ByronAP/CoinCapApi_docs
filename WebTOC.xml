@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="95530783-944a-4dc8-ab37-1359b25a35cd" Title="CoinCapApi Namespace" Url="html/N-CoinCapApi.htm">
+    <HelpTOCNode Id="cd33b710-bdc0-4f54-98f6-5d7f26a8a78a" Title="CoinCapClient Class" Url="html/T-CoinCapApi.CoinCapClient.htm">
+      <HelpTOCNode Title="CoinCapClient Members" Url="html/AllMembers.T-CoinCapApi.CoinCapClient.htm" />
+      <HelpTOCNode Title="CoinCapClient Constructor " Url="html/M-CoinCapApi.CoinCapClient.-ctor.htm" />
+      <HelpTOCNode Id="aa1dc93e-b8f0-47c0-bcbd-5b3a85da1139" Title="CoinCapClient Methods" Url="html/Methods.T-CoinCapApi.CoinCapClient.htm">
+        <HelpTOCNode Title="ClearCache Method " Url="html/M-CoinCapApi.CoinCapClient.ClearCache.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/M-CoinCapApi.CoinCapClient.Dispose.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="05830a53-1b84-4b08-998b-4f5ace2fbd59" Title="CoinCapClient Properties" Url="html/Properties.T-CoinCapApi.CoinCapClient.htm">
+        <HelpTOCNode Title="Assets Property " Url="html/P-CoinCapApi.CoinCapClient.Assets.htm" />
+        <HelpTOCNode Title="Candles Property " Url="html/P-CoinCapApi.CoinCapClient.Candles.htm" />
+        <HelpTOCNode Title="CCRestClient Property " Url="html/P-CoinCapApi.CoinCapClient.CCRestClient.htm" />
+        <HelpTOCNode Title="Exchanges Property " Url="html/P-CoinCapApi.CoinCapClient.Exchanges.htm" />
+        <HelpTOCNode Title="IsCacheEnabled Property " Url="html/P-CoinCapApi.CoinCapClient.IsCacheEnabled.htm" />
+        <HelpTOCNode Title="Markets Property " Url="html/P-CoinCapApi.CoinCapClient.Markets.htm" />
+        <HelpTOCNode Title="Rates Property " Url="html/P-CoinCapApi.CoinCapClient.Rates.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="457d830d-0e6c-4070-b9cc-a52cd91e6887" Title="Constants Class" Url="html/T-CoinCapApi.Constants.htm">
+      <HelpTOCNode Title="Constants Members" Url="html/AllMembers.T-CoinCapApi.Constants.htm" />
+      <HelpTOCNode Id="633ceaaa-e382-4723-b71e-de167129b302" Title="Constants Fields" Url="html/Fields.T-CoinCapApi.Constants.htm">
+        <HelpTOCNode Title="API_BASE_URL Field" Url="html/F-CoinCapApi.Constants.API_BASE_URL.htm" />
+        <HelpTOCNode Title="API_LOGO_128X128_PNG Field" Url="html/F-CoinCapApi.Constants.API_LOGO_128X128_PNG.htm" />
+        <HelpTOCNode Title="API_MIN_CACHE_TIME_MS Field" Url="html/F-CoinCapApi.Constants.API_MIN_CACHE_TIME_MS.htm" />
+        <HelpTOCNode Title="API_NAME Field" Url="html/F-CoinCapApi.Constants.API_NAME.htm" />
+        <HelpTOCNode Title="API_VERSION Field" Url="html/F-CoinCapApi.Constants.API_VERSION.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="87622b17-6240-4141-95cb-d82eb6b5ee31" Title="CoinCapApi.Exceptions Namespace" Url="html/N-CoinCapApi.Exceptions.htm">
+    <HelpTOCNode Id="84dee551-23bf-4838-b48d-20c729b928fa" Title="UnknownException Class" Url="html/T-CoinCapApi.Exceptions.UnknownException.htm">
+      <HelpTOCNode Title="UnknownException Members" Url="html/AllMembers.T-CoinCapApi.Exceptions.UnknownException.htm" />
+      <HelpTOCNode Title="UnknownException Constructor " Url="html/M-CoinCapApi.Exceptions.UnknownException.-ctor.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="ea29fdf8-1a31-4990-a7a1-7c58a93a7603" Title="CoinCapApi.Imp Namespace" Url="html/N-CoinCapApi.Imp.htm">
+    <HelpTOCNode Id="2090c2ae-c927-4a4b-993f-dd5d1fba54e9" Title="AssetsImp Class" Url="html/T-CoinCapApi.Imp.AssetsImp.htm">
+      <HelpTOCNode Title="AssetsImp Members" Url="html/AllMembers.T-CoinCapApi.Imp.AssetsImp.htm" />
+      <HelpTOCNode Id="f943b671-4f71-4fd5-b215-3c5949fc638e" Title="AssetsImp Methods" Url="html/Methods.T-CoinCapApi.Imp.AssetsImp.htm">
+        <HelpTOCNode Title="GetAssetAsync Method " Url="html/M-CoinCapApi.Imp.AssetsImp.GetAssetAsync.htm" />
+        <HelpTOCNode Title="GetAssetHistoryAsync Method " Url="html/M-CoinCapApi.Imp.AssetsImp.GetAssetHistoryAsync.htm" />
+        <HelpTOCNode Title="GetAssetMarketsAsync Method " Url="html/M-CoinCapApi.Imp.AssetsImp.GetAssetMarketsAsync.htm" />
+        <HelpTOCNode Title="GetAssetsAsync Method " Url="html/M-CoinCapApi.Imp.AssetsImp.GetAssetsAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1a49f399-b9b5-4f42-868e-392f7741de57" Title="CandlesImp Class" Url="html/T-CoinCapApi.Imp.CandlesImp.htm">
+      <HelpTOCNode Title="CandlesImp Members" Url="html/AllMembers.T-CoinCapApi.Imp.CandlesImp.htm" />
+      <HelpTOCNode Id="1bf0fc4f-3660-4930-ba4f-03357c984493" Title="CandlesImp Methods" Url="html/Methods.T-CoinCapApi.Imp.CandlesImp.htm">
+        <HelpTOCNode Title="GetCandlesAsync Method " Url="html/M-CoinCapApi.Imp.CandlesImp.GetCandlesAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8cf027a6-2edb-4118-8987-1a0fcb3ccd81" Title="ExchangesImp Class" Url="html/T-CoinCapApi.Imp.ExchangesImp.htm">
+      <HelpTOCNode Title="ExchangesImp Members" Url="html/AllMembers.T-CoinCapApi.Imp.ExchangesImp.htm" />
+      <HelpTOCNode Id="c7879169-37fe-4615-96c8-4cf55eaa8743" Title="ExchangesImp Methods" Url="html/Methods.T-CoinCapApi.Imp.ExchangesImp.htm">
+        <HelpTOCNode Title="GetExchangeAsync Method " Url="html/M-CoinCapApi.Imp.ExchangesImp.GetExchangeAsync.htm" />
+        <HelpTOCNode Title="GetExchangesAsync Method " Url="html/M-CoinCapApi.Imp.ExchangesImp.GetExchangesAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f72af374-7705-41e7-9b56-df10142b24ff" Title="MarketsImp Class" Url="html/T-CoinCapApi.Imp.MarketsImp.htm">
+      <HelpTOCNode Title="MarketsImp Members" Url="html/AllMembers.T-CoinCapApi.Imp.MarketsImp.htm" />
+      <HelpTOCNode Id="97e0bece-8ef8-4241-a46e-04b0ba4e7049" Title="MarketsImp Methods" Url="html/Methods.T-CoinCapApi.Imp.MarketsImp.htm">
+        <HelpTOCNode Title="GetMarketsAsync Method " Url="html/M-CoinCapApi.Imp.MarketsImp.GetMarketsAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b96e4513-c7ab-44e2-881e-c65c27a4e855" Title="RatesImp Class" Url="html/T-CoinCapApi.Imp.RatesImp.htm">
+      <HelpTOCNode Title="RatesImp Members" Url="html/AllMembers.T-CoinCapApi.Imp.RatesImp.htm" />
+      <HelpTOCNode Id="8706cf56-7fe7-4931-8ea3-30a5fc97a7a2" Title="RatesImp Methods" Url="html/Methods.T-CoinCapApi.Imp.RatesImp.htm">
+        <HelpTOCNode Title="GetRateAsync Method " Url="html/M-CoinCapApi.Imp.RatesImp.GetRateAsync.htm" />
+        <HelpTOCNode Title="GetRatesAsync Method " Url="html/M-CoinCapApi.Imp.RatesImp.GetRatesAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a1a79a9b-850e-4430-8114-1eeafcb39367" Title="CoinCapApi.Models Namespace" Url="html/N-CoinCapApi.Models.htm">
+    <HelpTOCNode Id="caec70f8-c86d-49da-b96f-28010c352cda" Title="AssetData Class" Url="html/T-CoinCapApi.Models.AssetData.htm">
+      <HelpTOCNode Title="AssetData Members" Url="html/AllMembers.T-CoinCapApi.Models.AssetData.htm" />
+      <HelpTOCNode Id="bbd6d95a-a2b0-4b82-9180-a8e9e5346275" Title="AssetData Properties" Url="html/Properties.T-CoinCapApi.Models.AssetData.htm">
+        <HelpTOCNode Title="ChangePercent24Hr Property " Url="html/P-CoinCapApi.Models.AssetData.ChangePercent24Hr.htm" />
+        <HelpTOCNode Title="Explorer Property " Url="html/P-CoinCapApi.Models.AssetData.Explorer.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinCapApi.Models.AssetData.Id.htm" />
+        <HelpTOCNode Title="MarketCapUsd Property " Url="html/P-CoinCapApi.Models.AssetData.MarketCapUsd.htm" />
+        <HelpTOCNode Title="MaxSupply Property " Url="html/P-CoinCapApi.Models.AssetData.MaxSupply.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinCapApi.Models.AssetData.Name.htm" />
+        <HelpTOCNode Title="PriceUsd Property " Url="html/P-CoinCapApi.Models.AssetData.PriceUsd.htm" />
+        <HelpTOCNode Title="Rank Property " Url="html/P-CoinCapApi.Models.AssetData.Rank.htm" />
+        <HelpTOCNode Title="Supply Property " Url="html/P-CoinCapApi.Models.AssetData.Supply.htm" />
+        <HelpTOCNode Title="Symbol Property " Url="html/P-CoinCapApi.Models.AssetData.Symbol.htm" />
+        <HelpTOCNode Title="VolumeUsd24Hr Property " Url="html/P-CoinCapApi.Models.AssetData.VolumeUsd24Hr.htm" />
+        <HelpTOCNode Title="Vwap24Hr Property " Url="html/P-CoinCapApi.Models.AssetData.Vwap24Hr.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7af9254a-211f-4458-9580-3fddfe6e5398" Title="AssetHistoryData Class" Url="html/T-CoinCapApi.Models.AssetHistoryData.htm">
+      <HelpTOCNode Title="AssetHistoryData Members" Url="html/AllMembers.T-CoinCapApi.Models.AssetHistoryData.htm" />
+      <HelpTOCNode Id="7d867065-25bc-4a56-a641-3eba4ca1b633" Title="AssetHistoryData Properties" Url="html/Properties.T-CoinCapApi.Models.AssetHistoryData.htm">
+        <HelpTOCNode Title="CirculatingSupply Property " Url="html/P-CoinCapApi.Models.AssetHistoryData.CirculatingSupply.htm" />
+        <HelpTOCNode Title="Date Property " Url="html/P-CoinCapApi.Models.AssetHistoryData.Date.htm" />
+        <HelpTOCNode Title="PriceUsd Property " Url="html/P-CoinCapApi.Models.AssetHistoryData.PriceUsd.htm" />
+        <HelpTOCNode Title="Time Property " Url="html/P-CoinCapApi.Models.AssetHistoryData.Time.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ad75f2f0-35c5-464d-9b16-dd2ccfce751a" Title="AssetHistoryResponse Class" Url="html/T-CoinCapApi.Models.AssetHistoryResponse.htm">
+      <HelpTOCNode Title="AssetHistoryResponse Members" Url="html/AllMembers.T-CoinCapApi.Models.AssetHistoryResponse.htm" />
+      <HelpTOCNode Id="c1f46da6-5e2b-46c1-bb6b-167136d2ef06" Title="AssetHistoryResponse Properties" Url="html/Properties.T-CoinCapApi.Models.AssetHistoryResponse.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P-CoinCapApi.Models.AssetHistoryResponse.Data.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-CoinCapApi.Models.AssetHistoryResponse.Timestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="95ce614b-9259-4189-9a11-ebd357e7e885" Title="AssetMarketData Class" Url="html/T-CoinCapApi.Models.AssetMarketData.htm">
+      <HelpTOCNode Title="AssetMarketData Members" Url="html/AllMembers.T-CoinCapApi.Models.AssetMarketData.htm" />
+      <HelpTOCNode Id="a73f524f-d402-472f-8ff9-f751cc66c722" Title="AssetMarketData Properties" Url="html/Properties.T-CoinCapApi.Models.AssetMarketData.htm">
+        <HelpTOCNode Title="BaseId Property " Url="html/P-CoinCapApi.Models.AssetMarketData.BaseId.htm" />
+        <HelpTOCNode Title="BaseSymbol Property " Url="html/P-CoinCapApi.Models.AssetMarketData.BaseSymbol.htm" />
+        <HelpTOCNode Title="ExchangeId Property " Url="html/P-CoinCapApi.Models.AssetMarketData.ExchangeId.htm" />
+        <HelpTOCNode Title="PriceUsd Property " Url="html/P-CoinCapApi.Models.AssetMarketData.PriceUsd.htm" />
+        <HelpTOCNode Title="QuoteId Property " Url="html/P-CoinCapApi.Models.AssetMarketData.QuoteId.htm" />
+        <HelpTOCNode Title="QuoteSymbol Property " Url="html/P-CoinCapApi.Models.AssetMarketData.QuoteSymbol.htm" />
+        <HelpTOCNode Title="VolumePercent Property " Url="html/P-CoinCapApi.Models.AssetMarketData.VolumePercent.htm" />
+        <HelpTOCNode Title="VolumeUsd24Hr Property " Url="html/P-CoinCapApi.Models.AssetMarketData.VolumeUsd24Hr.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1ddd1a2e-0b69-4d71-92fa-915c2ecadef8" Title="AssetMarketsResponse Class" Url="html/T-CoinCapApi.Models.AssetMarketsResponse.htm">
+      <HelpTOCNode Title="AssetMarketsResponse Members" Url="html/AllMembers.T-CoinCapApi.Models.AssetMarketsResponse.htm" />
+      <HelpTOCNode Id="a0f4c37b-6267-4a96-9236-7b5bd1f91344" Title="AssetMarketsResponse Properties" Url="html/Properties.T-CoinCapApi.Models.AssetMarketsResponse.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P-CoinCapApi.Models.AssetMarketsResponse.Data.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-CoinCapApi.Models.AssetMarketsResponse.Timestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0605c1ec-5940-464c-81ad-c2df5a8f0ca9" Title="AssetResponse Class" Url="html/T-CoinCapApi.Models.AssetResponse.htm">
+      <HelpTOCNode Title="AssetResponse Members" Url="html/AllMembers.T-CoinCapApi.Models.AssetResponse.htm" />
+      <HelpTOCNode Id="7660107b-e03d-463e-a363-ded8c6090576" Title="AssetResponse Properties" Url="html/Properties.T-CoinCapApi.Models.AssetResponse.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P-CoinCapApi.Models.AssetResponse.Data.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-CoinCapApi.Models.AssetResponse.Timestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ddc96f20-a489-4cee-8cc8-beccceaeb77d" Title="AssetsResponse Class" Url="html/T-CoinCapApi.Models.AssetsResponse.htm">
+      <HelpTOCNode Title="AssetsResponse Members" Url="html/AllMembers.T-CoinCapApi.Models.AssetsResponse.htm" />
+      <HelpTOCNode Id="a4a5a857-b86a-4049-9218-cc38c67acfef" Title="AssetsResponse Properties" Url="html/Properties.T-CoinCapApi.Models.AssetsResponse.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P-CoinCapApi.Models.AssetsResponse.Data.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-CoinCapApi.Models.AssetsResponse.Timestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f2afaa8d-5427-43aa-982c-e20ff368cabb" Title="CandleData Class" Url="html/T-CoinCapApi.Models.CandleData.htm">
+      <HelpTOCNode Title="CandleData Members" Url="html/AllMembers.T-CoinCapApi.Models.CandleData.htm" />
+      <HelpTOCNode Id="ae8376b7-3f52-4c14-9f5c-a1ccb1a28aa4" Title="CandleData Properties" Url="html/Properties.T-CoinCapApi.Models.CandleData.htm">
+        <HelpTOCNode Title="Close Property " Url="html/P-CoinCapApi.Models.CandleData.Close.htm" />
+        <HelpTOCNode Title="High Property " Url="html/P-CoinCapApi.Models.CandleData.High.htm" />
+        <HelpTOCNode Title="Low Property " Url="html/P-CoinCapApi.Models.CandleData.Low.htm" />
+        <HelpTOCNode Title="Open Property " Url="html/P-CoinCapApi.Models.CandleData.Open.htm" />
+        <HelpTOCNode Title="Period Property " Url="html/P-CoinCapApi.Models.CandleData.Period.htm" />
+        <HelpTOCNode Title="Volume Property " Url="html/P-CoinCapApi.Models.CandleData.Volume.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="81fc51cc-7c0b-4695-8091-16952555bbf3" Title="CandlesResponse Class" Url="html/T-CoinCapApi.Models.CandlesResponse.htm">
+      <HelpTOCNode Title="CandlesResponse Members" Url="html/AllMembers.T-CoinCapApi.Models.CandlesResponse.htm" />
+      <HelpTOCNode Id="48c7e1ba-8ee7-4c37-b822-f9f705aa26d1" Title="CandlesResponse Properties" Url="html/Properties.T-CoinCapApi.Models.CandlesResponse.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P-CoinCapApi.Models.CandlesResponse.Data.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-CoinCapApi.Models.CandlesResponse.Timestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="95463697-7f5a-401c-b438-15d7fb1f4281" Title="ExchangeData Class" Url="html/T-CoinCapApi.Models.ExchangeData.htm">
+      <HelpTOCNode Title="ExchangeData Members" Url="html/AllMembers.T-CoinCapApi.Models.ExchangeData.htm" />
+      <HelpTOCNode Id="601cacf3-ff32-42ec-a8b5-7b3eaa39e72b" Title="ExchangeData Properties" Url="html/Properties.T-CoinCapApi.Models.ExchangeData.htm">
+        <HelpTOCNode Title="ExchangeId Property " Url="html/P-CoinCapApi.Models.ExchangeData.ExchangeId.htm" />
+        <HelpTOCNode Title="ExchangeUrl Property " Url="html/P-CoinCapApi.Models.ExchangeData.ExchangeUrl.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinCapApi.Models.ExchangeData.Name.htm" />
+        <HelpTOCNode Title="PercentTotalVolume Property " Url="html/P-CoinCapApi.Models.ExchangeData.PercentTotalVolume.htm" />
+        <HelpTOCNode Title="Rank Property " Url="html/P-CoinCapApi.Models.ExchangeData.Rank.htm" />
+        <HelpTOCNode Title="Socket Property " Url="html/P-CoinCapApi.Models.ExchangeData.Socket.htm" />
+        <HelpTOCNode Title="TradingPairs Property " Url="html/P-CoinCapApi.Models.ExchangeData.TradingPairs.htm" />
+        <HelpTOCNode Title="Updated Property " Url="html/P-CoinCapApi.Models.ExchangeData.Updated.htm" />
+        <HelpTOCNode Title="VolumeUsd Property " Url="html/P-CoinCapApi.Models.ExchangeData.VolumeUsd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3fdbde3b-7115-45ae-877d-3ed7472d24b0" Title="ExchangeResponse Class" Url="html/T-CoinCapApi.Models.ExchangeResponse.htm">
+      <HelpTOCNode Title="ExchangeResponse Members" Url="html/AllMembers.T-CoinCapApi.Models.ExchangeResponse.htm" />
+      <HelpTOCNode Id="65099fa5-4359-4cc5-b45f-8100b69ebb0c" Title="ExchangeResponse Properties" Url="html/Properties.T-CoinCapApi.Models.ExchangeResponse.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P-CoinCapApi.Models.ExchangeResponse.Data.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-CoinCapApi.Models.ExchangeResponse.Timestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ba4ea854-a93e-4008-ac4a-eb5121f85cd0" Title="ExchangesResponse Class" Url="html/T-CoinCapApi.Models.ExchangesResponse.htm">
+      <HelpTOCNode Title="ExchangesResponse Members" Url="html/AllMembers.T-CoinCapApi.Models.ExchangesResponse.htm" />
+      <HelpTOCNode Id="83c50b22-eab8-462d-9147-d99ef89828e0" Title="ExchangesResponse Properties" Url="html/Properties.T-CoinCapApi.Models.ExchangesResponse.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P-CoinCapApi.Models.ExchangesResponse.Data.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-CoinCapApi.Models.ExchangesResponse.Timestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3810e1c4-b16c-4a22-b00b-e5e9e9d5f2dd" Title="MarketData Class" Url="html/T-CoinCapApi.Models.MarketData.htm">
+      <HelpTOCNode Title="MarketData Members" Url="html/AllMembers.T-CoinCapApi.Models.MarketData.htm" />
+      <HelpTOCNode Id="1d682203-9d4b-4579-8228-2321f73fec58" Title="MarketData Properties" Url="html/Properties.T-CoinCapApi.Models.MarketData.htm">
+        <HelpTOCNode Title="BaseId Property " Url="html/P-CoinCapApi.Models.MarketData.BaseId.htm" />
+        <HelpTOCNode Title="BaseSymbol Property " Url="html/P-CoinCapApi.Models.MarketData.BaseSymbol.htm" />
+        <HelpTOCNode Title="ExchangeId Property " Url="html/P-CoinCapApi.Models.MarketData.ExchangeId.htm" />
+        <HelpTOCNode Title="PercentExchangeVolume Property " Url="html/P-CoinCapApi.Models.MarketData.PercentExchangeVolume.htm" />
+        <HelpTOCNode Title="PriceQuote Property " Url="html/P-CoinCapApi.Models.MarketData.PriceQuote.htm" />
+        <HelpTOCNode Title="PriceUsd Property " Url="html/P-CoinCapApi.Models.MarketData.PriceUsd.htm" />
+        <HelpTOCNode Title="QuoteId Property " Url="html/P-CoinCapApi.Models.MarketData.QuoteId.htm" />
+        <HelpTOCNode Title="QuoteSymbol Property " Url="html/P-CoinCapApi.Models.MarketData.QuoteSymbol.htm" />
+        <HelpTOCNode Title="Rank Property " Url="html/P-CoinCapApi.Models.MarketData.Rank.htm" />
+        <HelpTOCNode Title="TradesCount24Hr Property " Url="html/P-CoinCapApi.Models.MarketData.TradesCount24Hr.htm" />
+        <HelpTOCNode Title="Updated Property " Url="html/P-CoinCapApi.Models.MarketData.Updated.htm" />
+        <HelpTOCNode Title="VolumeUsd24Hr Property " Url="html/P-CoinCapApi.Models.MarketData.VolumeUsd24Hr.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0d33b66b-477c-4bd7-8f74-269b2f8efee6" Title="MarketsResponse Class" Url="html/T-CoinCapApi.Models.MarketsResponse.htm">
+      <HelpTOCNode Title="MarketsResponse Members" Url="html/AllMembers.T-CoinCapApi.Models.MarketsResponse.htm" />
+      <HelpTOCNode Id="c83edcbd-ca00-4dd5-a011-7fee226814b3" Title="MarketsResponse Properties" Url="html/Properties.T-CoinCapApi.Models.MarketsResponse.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P-CoinCapApi.Models.MarketsResponse.Data.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-CoinCapApi.Models.MarketsResponse.Timestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f4ee7e27-032c-4658-9173-4219dda0980a" Title="RateData Class" Url="html/T-CoinCapApi.Models.RateData.htm">
+      <HelpTOCNode Title="RateData Members" Url="html/AllMembers.T-CoinCapApi.Models.RateData.htm" />
+      <HelpTOCNode Id="2cef6e42-20d1-4a7d-9162-075a7fdef84e" Title="RateData Properties" Url="html/Properties.T-CoinCapApi.Models.RateData.htm">
+        <HelpTOCNode Title="CurrencySymbol Property " Url="html/P-CoinCapApi.Models.RateData.CurrencySymbol.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinCapApi.Models.RateData.Id.htm" />
+        <HelpTOCNode Title="RateUsd Property " Url="html/P-CoinCapApi.Models.RateData.RateUsd.htm" />
+        <HelpTOCNode Title="Symbol Property " Url="html/P-CoinCapApi.Models.RateData.Symbol.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P-CoinCapApi.Models.RateData.Type.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="de49aa14-11e0-4a99-aeec-e349cd14f913" Title="RateResponse Class" Url="html/T-CoinCapApi.Models.RateResponse.htm">
+      <HelpTOCNode Title="RateResponse Members" Url="html/AllMembers.T-CoinCapApi.Models.RateResponse.htm" />
+      <HelpTOCNode Id="7981d6bc-d9fd-426b-9e03-8e30a3712ee1" Title="RateResponse Properties" Url="html/Properties.T-CoinCapApi.Models.RateResponse.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P-CoinCapApi.Models.RateResponse.Data.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-CoinCapApi.Models.RateResponse.Timestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a5fc833f-7917-480c-a4bb-c70df8150db0" Title="RatesResponse Class" Url="html/T-CoinCapApi.Models.RatesResponse.htm">
+      <HelpTOCNode Title="RatesResponse Members" Url="html/AllMembers.T-CoinCapApi.Models.RatesResponse.htm" />
+      <HelpTOCNode Id="038db72c-92b1-43f1-91cf-31d4e4c2939a" Title="RatesResponse Properties" Url="html/Properties.T-CoinCapApi.Models.RatesResponse.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P-CoinCapApi.Models.RatesResponse.Data.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-CoinCapApi.Models.RatesResponse.Timestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="875d437e-a4eb-4451-a96f-7c2313b7f213" Title="CoinCapApi.Types Namespace" Url="html/N-CoinCapApi.Types.htm">
+    <HelpTOCNode Title="TimeInterval Enumeration" Url="html/T-CoinCapApi.Types.TimeInterval.htm" />
+  </HelpTOCNode>
+</HelpTOC>
